@@ -3,22 +3,23 @@
         "type": "image",
         "container": [
             {
+                "text": " ",
                 "icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon.png'>"
             },
             {
-                "text": "",
+                "text": " ",
                 "icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon2.png'>"
             },
             {
-                "text": "",
+                "text": " ",
                 "icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon3.png'>"
             },
             {
-                "text": "",
+                "text": " ",
                 "icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon4.png'>"
             },
             {
-                "text": "",
+                "text": " ",
                 "icon": "<img src='https://twikoo-magic.oss-cn-hangzhou.aliyuncs.com/Tieba-New/image_emoticon5.png'>"
             },
             {
